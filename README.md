@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @islomiddin (coder)
+- 👀 I’m interested in programming with colleagues 
+- 🌱 I’m currently learning programming
